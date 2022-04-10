@@ -17,7 +17,7 @@ class RequestWebService {
 
     init {  // retrofit builder
         val retrofit = Retrofit.Builder()
-            .baseUrl("http://e8dc-79-179-231-253.ngrok.io")
+            .baseUrl("http://localhost:3000")
             .addConverterFactory(GsonConverterFactory.create())
             .build()
 

@@ -1,0 +1,53 @@
+{
+  "questions": [
+    {
+      "type": "MultipleChoice",
+      "question": "What language is your favorite?",
+      "answers": [
+        "Kotlin",
+        "Java",
+        "C++"
+      ],
+      "open_question": "",
+      "required": true
+    },
+    {
+      "type": "OpenQuestion",
+      "question": "What do you like about programing?",
+      "answers": [],
+      "open_question": "",
+      "required": false
+    },
+    {
+      "type": "MultipleChoiceWhitOpenQuestion",
+      "question": "How was the assignment?",
+      "answers": [
+        "Easy",
+        "Normal",
+        "Hard"
+      ],
+      "open_question": "Other",
+      "required": true
+    }
+  ],
+  "answers": [
+    {
+      "code": "354244387",
+      "user_answers": [
+        "Java",
+        "fdvc",
+        ""
+      ],
+      "id": 1
+    },
+    {
+      "code": "354550356",
+      "user_answers": [
+        "Java",
+        "",
+        "Normal"
+      ],
+      "id": 2
+    }
+  ]
+}
