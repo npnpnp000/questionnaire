@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Questionnaire</string>
+    <string name="h1">GoTech Questionnaire</string>
+    <string name="h2">Show me what you got!</string>
+    <string name="require">Require*</string>
+    <string name="ok">Ok</string>
+    <string name="toast_text">You Mast to answer on all the Question</string>
+    <string name="submit">Submit</string>
+    <string name="submit_fail">Submit fail</string>
+    <string name="submit_fail_txt">\"Something go wrong, please try again later \"</string>
+    <string name="submit_successes">Submit successes</string>
+    <string name="submit_successes_text">Your answers have been received in the system, thank you</string>
+    <string name="your_answer">Your answer</string>
+</resources>
